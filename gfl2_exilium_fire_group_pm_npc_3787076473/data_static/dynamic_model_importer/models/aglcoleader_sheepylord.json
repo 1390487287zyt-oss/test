@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "kind": "dynamic_model_importer_manifest",
+  "generated_by": "MMD Character Importer Step 14",
+  "manifest_id": "aglcoleader_sheepylord",
+  "addon_id": "aglcoleader_sheepylord",
+  "author": "sheepylord",
+  "character_category": "BUTTHEAD",
+  "category_readable": "BUTTHEAD",
+  "model_name": "Aglcoleader",
+  "display_name": "Aglcoleader",
+  "paths": {
+    "model": "models/sheepylord/BUTTHEAD/Aglcoleader.mdl",
+    "player_model": "models/sheepylord/BUTTHEAD/Aglcoleader_pm.mdl",
+    "arms_model": "models/sheepylord/BUTTHEAD/Aglcoleader_arms.mdl",
+    "friendly_icon": "materials/vgui/entities/Aglcoleader_sheepylord_F.vtf",
+    "enemy_icon": "materials/vgui/entities/Aglcoleader_sheepylord_E.vtf"
+  },
+  "npc_defaults": {
+    "relation": "friendly",
+    "health": 100,
+    "weapon": "weapon_smg1",
+    "friendly": {
+      "class": "npc_citizen",
+      "weapon": "weapon_smg1",
+      "keyvalues": {
+        "citizentype": "4"
+      }
+    },
+    "hostile": {
+      "class": "npc_combine_s",
+      "weapon": "weapon_ar2",
+      "keyvalues": {
+        "Numgrenades": "4"
+      }
+    },
+    "neutral": {
+      "class": "npc_citizen",
+      "weapon": "weapon_smg1",
+      "keyvalues": {
+        "citizentype": "4"
+      }
+    }
+  }
+}

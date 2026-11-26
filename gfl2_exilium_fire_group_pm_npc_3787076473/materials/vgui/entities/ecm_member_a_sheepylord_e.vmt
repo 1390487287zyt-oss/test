@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "vgui/entities/ECM_Member_A_sheepylord_E"
+	$vertexalpha 1
+	$vertexcolor 1
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "kind": "dynamic_model_importer_manifest",
+  "generated_by": "MMD Character Importer Step 14",
+  "manifest_id": "ecm_member_c_sheepylord",
+  "addon_id": "ecm_member_c_sheepylord",
+  "author": "sheepylord",
+  "character_category": "girls_frontline_2",
+  "category_readable": "Girls' Frontline 2: Exilium",
+  "model_name": "ECM_Member_C",
+  "display_name": "ECM Member C",
+  "paths": {
+    "model": "models/sheepylord/girls_frontline_2/ECM_Member_C.mdl",
+    "player_model": "models/sheepylord/girls_frontline_2/ECM_Member_C_pm.mdl",
+    "arms_model": "models/sheepylord/girls_frontline_2/ECM_Member_C_arms.mdl",
+    "friendly_icon": "materials/vgui/entities/ECM_Member_C_sheepylord_F.vtf",
+    "enemy_icon": "materials/vgui/entities/ECM_Member_C_sheepylord_E.vtf"
+  },
+  "npc_defaults": {
+    "relation": "friendly",
+    "health": 100,
+    "weapon": "weapon_smg1",
+    "friendly": {
+      "class": "npc_citizen",
+      "weapon": "weapon_smg1",
+      "keyvalues": {
+        "citizentype": "4"
+      }
+    },
+    "hostile": {
+      "class": "npc_combine_s",
+      "weapon": "weapon_ar2",
+      "keyvalues": {
+        "Numgrenades": "4"
+      }
+    },
+    "neutral": {
+      "class": "npc_citizen",
+      "weapon": "weapon_smg1",
+      "keyvalues": {
+        "citizentype": "4"
+      }
+    }
+  }
+}
