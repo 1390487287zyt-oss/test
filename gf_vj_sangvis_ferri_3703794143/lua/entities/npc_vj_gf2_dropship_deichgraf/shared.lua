@@ -1,0 +1,8 @@
+ENT.Base 			= "npc_vj_human_base"
+ENT.Type 			= "ai"
+ENT.PrintName 		= "Deichgraf Dropship"
+ENT.Author 			= "Lubbi"
+ENT.Contact 		= ""
+ENT.Purpose 		= "Drops Automatons."
+ENT.Instructions	= "Click on it to spawn it."
+ENT.Category		= "VJLub"
