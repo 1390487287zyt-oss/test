@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "sf/swap/Ripper_body"
+	$surfaceprop Metal
+
+	$bumpmap "sf/swap/normal"
+
+	$lightwarptexture "sf/swap/toon_head"
+}

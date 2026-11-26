@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "sf/HL"
+	"$bumpmap" 							"sf/normal"
+	"$lightwarptexture" 				"sf/toon_all"
+
+
+	"$phongexponenttexture" 			"sf/phong_exp"
+	$nocull 1
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongexponent 5
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 3
+}

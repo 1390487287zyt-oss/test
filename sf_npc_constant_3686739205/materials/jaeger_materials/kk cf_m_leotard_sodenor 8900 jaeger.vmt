@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+	$basetexture "Jaeger_materials/KK cf_m_leotard_sodenor 8900 Jaeger"
+	$bumpmap "jaeger_materials/an"
+
+	$lightwarptexture "jaeger_materials/basewarp"
+
+	$alphatest 1
+	$nocull 1
+
+	$phong 1
+	$phongexponenttexture "jaeger_materials/_phong_exp"
+	$phongfresnelranges "[1 0.1 0.1]"
+	$halflambert 1
+	$phongalbedotint 1
+	$phongboost 0.02
+
+	$nodecal 1
+
+	$allowalphatocoverage 1
+	$model 1
+}

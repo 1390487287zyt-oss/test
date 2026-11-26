@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+	$basetexture "Ripper_materials/KK cf_m_hair_f_105_00 4700 00 Ripper"
+	$bumpmap "ripper_materials/an"
+
+	$lightwarptexture "ripper_materials/basewarp"
+
+	$alphatest 1
+	$nocull 1
+
+	$phong 1
+	$phongexponenttexture "ripper_materials/_phong_exp"
+	$phongfresnelranges "[1 0.1 0.1]"
+	$halflambert 1
+	$phongalbedotint 1
+	$phongboost 0.02
+
+	$nodecal 1
+
+	$allowalphatocoverage 1
+	$model 1
+}

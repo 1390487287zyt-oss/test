@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/gfl_vehicles/t45coeus/T-45Coeus_basecolor"
+"$bumpmap" "models/gfl_vehicles/t45coeus/bumpmap_alt"
+"$surfaceprop" "Metal"
+"$nocull" 1
+"$halflambert" 1
+"$phong" "0"
+"$phongexponent" "20"
+"$phongboost" "1"
+"$phongfresnelranges" "[.3 1 7]"
+}

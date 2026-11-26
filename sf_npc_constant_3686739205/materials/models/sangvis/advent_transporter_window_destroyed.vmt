@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+
+	 $basetexture "models/minic23/xcom2/advent/advent_transporter_wing_dif_destroyed"
+	 $bumpmap "models/minic23/xcom2/advent/advent_transporter_wing_nrm_destroyed"
+    "$phongexponenttexture" "models/advent_snpc/PriestRifle_m"
+    "$color2" "[ 0.1 0.1 0.1 ]"
+    "$blendtintbybasealpha" "1"
+	"$phong" "1"
+    "$phongboost" "0.2"
+    "$phongalbedotint" "1"
+$phongalbedoboost 155
+$rimlight               1
+	$rimlightexponent       25
+	$rimlightboost          .1
+
+    "$phongwarptexture" "models/advent_snpc/phongwarp_steel"
+    "$envmap" "env_cubemap"
+    "$basemapalphaenvmapmask" "1"
+    "$envmapfresnel" "-1"
+    "$envmaptint" "[ .1 .1 .1 ]"
+
+}

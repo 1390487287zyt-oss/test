@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+
+	 $basetexture "models/sangvis/advent_transporter_DIF"
+	 $bumpmap "models/sangvis/advent_transporter_NRM"
+    "$phongexponenttexture" "models/sangvis/PriestRifle_m"
+    "$color2" "[ 0.1 0.1 0.1 ]"
+    "$blendtintbybasealpha" "1"
+	"$phong" "1"
+    "$phongboost" "0.5"
+    "$phongalbedotint" "1"
+$phongalbedoboost 155
+$rimlight               1
+	$rimlightexponent       25
+	$rimlightboost          .1
+
+    "$phongwarptexture" "models/sangvis/phongwarp_steel"
+    "$envmap" "env_cubemap"
+    "$basemapalphaenvmapmask" "0"
+    "$envmapfresnel" "-1"
+    "$envmaptint" "[ .1 .1 .1 ]"
+$EmissiveBlendEnabled         1                    // Enable EmissiveBlend. Like $selfillum 1
+$EmissiveBlendStrength         1                     // how strong the entire glow effect is.
+$EmissiveBlendTexture         "vgui/white"            // This will be useless, but is required.
+$EmissiveBlendBaseTexture      "models/sangvis/advent_transporter_e"    // this is the glowing texture.vtf
+$EmissiveBlendFlowTexture     "vgui/white"             // EmmisiveBlend can "flow" or move. But ours is static, so a white texture is used.
+$EmissiveBlendTint             " [ 1 0 0 ] "        // RGB glow intensity. Leave at 1 1 1. This can be used to change how strong each color should glow. So instead of using a darker red color, you may use [.5 1 1] to have red glow half as strong.
+$EmissiveBlendScrollVector     " [ 0 0 ] "         // makes the EmmissiveBlend flow in either direction if a proper EmissiveBlendFlowTexture were set. But ours is static, so leave at 0 0}
+$nodecal 1
+}

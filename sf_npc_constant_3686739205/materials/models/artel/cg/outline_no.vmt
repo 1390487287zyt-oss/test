@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	$basetexture "models\artel\cg\white_trans"
+	$alphatest	1
+	$nodecal 1
+
+}

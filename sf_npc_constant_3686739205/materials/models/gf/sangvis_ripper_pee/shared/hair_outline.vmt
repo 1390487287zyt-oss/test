@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	$basetexture "models\gf\sangvis_ripper_pee\shared\hair_outline"
+	$nodecal 1
+}

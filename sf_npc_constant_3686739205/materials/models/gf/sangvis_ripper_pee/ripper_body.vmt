@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	$basetexture "models/gf/sangvis_ripper_pee/Ripper_body"
+	$bumpmap "models\gf\sangvis_ripper_pee\shared/normal"
+
+	$lightwarptexture "models\gf\sangvis_ripper_pee\shared/toon_all"
+	$nocull 1
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongexponent 5
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 3
+}

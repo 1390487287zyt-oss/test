@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models\artel\cg/Guard_accessories_outline"
+	$surfaceprop Metal
+
+	$bumpmap "models\artel\cg/normal"
+
+	$lightwarptexture "models\artel\cg/toon_head"
+}

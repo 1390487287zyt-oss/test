@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	$basetexture "models\artel\cg/Ripper_head"
+	$bumpmap "models\artel\cg/normal"
+
+	$lightwarptexture "models\artel\cg/toon_all"
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongexponent 5
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 3
+}

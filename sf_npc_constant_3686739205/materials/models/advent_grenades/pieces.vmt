@@ -1,0 +1,20 @@
+SDK_VertexLitGeneric
+{
+	"$bumpmap" "models/zrtbr/weapons/v_grenade/pieces_n"
+	//"$envmap" "env_cubemap"
+	//"$envmapcontrast" 1
+	//"$normalmapalphaenvmapmask" 1
+	"$baseTexture" "Models/zrtbr/Weapons/V_grenade/pieces_diffuse"
+	$detail "models/APCnew/detail_metal"
+	$detailscale 6
+	$detailblendfactor .65
+	$detailblendmode 0
+
+
+// -- From here down is new stuff which will only be applied if $phong is set to 1 --
+	"$phong" "1"
+	"$phongexponent" "85"
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[.2 0.4 2]"
+
+}

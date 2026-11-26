@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	$basetexture "models\gf\sangvis_ripper_pee\shared\white_trans"
+	$alphatest	1
+	$nodecal 1
+
+}

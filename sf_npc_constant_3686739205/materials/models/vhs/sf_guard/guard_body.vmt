@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/vhs/sf_guard/guard_body"
+	 	$surfaceprop Metal
+
+	$bumpmap "models\vhs\sf_guard/normal"
+
+	$lightwarptexture "models/vhs/sf_guard/toon_head"
+}

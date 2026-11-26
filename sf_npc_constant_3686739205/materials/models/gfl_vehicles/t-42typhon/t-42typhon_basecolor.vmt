@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/gfl_vehicles/T-42Typhon/T-42Typhon_basecolor"
+"$bumpmap" "models/gfl_vehicles/T-42Typhon/bumpmap_alt"
+"$surfaceprop" "Metal"
+"$nocull" 1
+"$halflambert" 1
+"$phong" "0"
+"$phongexponent" "20"
+"$phongboost" "1"
+"$phongfresnelranges" "[.3 1 7]"
+}

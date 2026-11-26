@@ -1,0 +1,13 @@
+"SpriteCard"
+{
+	$BASETEXTURE "advent_particles\effects/neuro_debris"
+	$POWERFUNCTION "[0.8 2.5 5]"
+	
+	$OVERBRIGHTFACTOR 2
+	$ADDSELF 1.0
+	$DEPTHBLEND 1
+	$startfadesize .2
+	$endfadesize .25
+	$MAXSIZE .25
+	$BLENDFRAMES 1
+}

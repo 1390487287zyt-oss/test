@@ -1,0 +1,21 @@
+SDK_VertexLitGeneric
+{
+	"$baseTexture" "models/advent_grenades/body_diffuse"
+	"$halflambert" "1"
+	"$bumpmap" "models/advent_grenades/body_n"
+	$detail detail\metal_detail_06
+	$detailscale 4.283
+	$detailblendfactor 1
+	$detailblendmode 0
+
+// -- From here down is new stuff which will only be applied if $phong is set to 1 --
+	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost"	"0.8"
+	"$phongfresnelranges"	"[.2 0.4 2]"
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"16"	
+	"$rimlightboost"			"4"
+	"$rimmask"					"1"
+}
