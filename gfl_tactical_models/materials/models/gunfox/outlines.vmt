@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "white"
+              $EmissiveBlendEnabled 		1		
+
+              $EmissiveBlendStrength 		5		//调节亮度
+
+              $EmissiveBlendTexture 		"vgui/white"			
+
+              $EmissiveBlendBaseTexture 	"models/gunfox_carp/xmaterial_9681fbebcacbb47"	
+
+              $EmissiveBlendFlowTexture 	"vgui/white"	 	
+
+              $EmissiveBlendScrollVector 	" [ 0 0 ] " 
+    /////////////////
+    "$color2" "{0 255 0}"                                     //do not touch this
+}

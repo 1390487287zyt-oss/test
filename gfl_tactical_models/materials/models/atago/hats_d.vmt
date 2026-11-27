@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/atago\hats_d"
+	"$bumpmap" "models/atago\hats_n"
+  	   $nocull                        1
+	$alphatest                   1
+	$alphatestreference    0.7
+
+
+}
+
+
+
+

@@ -1,0 +1,29 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\Sokolnichij\gfl\ub/C_AL_Jacket_Grey_col"
+	"$bumpmap" "models\Sokolnichij\gfl\ub\C_AL_Jacket_nml"
+	"$color2" "[0.85 0.85 0.85]"
+	
+	"$normalmapalphaenvmapmask" "1"				
+	"$envmap" "env_cubemap"							
+	"$envmapsaturation" "1"
+	"$envmaptint" "[.005 .005 .005]"					
+ 	"$envmapFresnel" "1"					
+
+	"$nocull" "1"	
+
+             //"ReflectionsDir
+
+	"$phong" "1"	
+	"$phongboost" "0.15"
+	"$phongexponent" "5"	
+		
+	"$lightwarptexture" "models\Sokolnichij\gfl\gk\lightwarp_soft"
+	"$phongtint" "[1 1 .9]"
+	"$phongfresnelranges" "[.2 .5 5]"
+
+             //"$PhongAlbedoTint" "1"
+	"$rimlight" "1"
+	"$rimlightboost" "0.05"
+             //"$rimmask" "1"
+}

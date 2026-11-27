@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ChocolatTheBunny/em99/em99_body01_BM"
+	"$bumpmap" "models/ChocolatTheBunny/em99/em99_body01_NM"  
+	"$AmbientOcclTexture" "models/ChocolatTheBunny/em99/em99_body01_MM"
+	
+	"$AmbientOcclColor" "[0.33 0.33 0.33]"
+	"$halflambert" "1"
+	$tintmasktexture 1 
+	$ssbump 1
+
+"$phong" "1"
+"$phongexponent" "8" 
+"$phongboost" "4"
+"$phongfresnelranges"   "[0.1 0.5 1.]"
+"$phongtint" "[2.55 2.55 2.55]"
+"$phongexponentmask" "models/ChocolatTheBunny/em99/em99_body01_MM"  
+}

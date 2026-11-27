@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\Sokolnichij\gfl\gk\specoops\em99_body01_BM"
+	"$bumpmap" "models\Sokolnichij\gfl\gk\specoops\em99_body01_NM"  
+	"$AmbientOcclTexture" "models\Sokolnichij\gfl\gk\specoops\em99_body01_MM"
+	
+	"$AmbientOcclColor" "[0.33 0.33 0.33]"
+	"$halflambert" "1"
+	$tintmasktexture 1 
+	$ssbump 1
+
+"$Envmap"             "env_cubemap"
+//"$envmapmask"		"models\Sokolnichij\gfl\gk\specoops\BH_silvr_fs_BM"
+$envmaptint			"[0.1 0.1 0.1]"
+
+"$phong" "1"
+"$phongexponent" "8" 
+"$phongboost" "4"
+"$phongfresnelranges"   "[0.1 0.5 1.]"
+"$phongtint" "[2.55 2.55 2.55]"
+"$phongexponentmask" "models\Sokolnichij\gfl\gk\specoops\em99_body01_MM"  
+}

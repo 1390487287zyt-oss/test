@@ -1,0 +1,26 @@
+-- Positions from the PMX bind pose, converted to Source axes.
+return {
+    parts = {
+        {name = "body", pivot = Vector(-22.6800, 0.0000, 98.0629), sample = Vector(-8.7730, 0.0000, 126.5912), groups = {"body", "dark", "lamp"}},
+        {name = "antenna", pivot = Vector(-48.2400, 15.3600, 158.5029), sample = Vector(-71.0377, 17.4656, 175.6893), groups = {"body", "lamp"}},
+        {name = "mount", pivot = Vector(20.2000, 0.0000, 87.6629), sample = Vector(21.0625, 0.0000, 83.8080), groups = {"body"}},
+        {name = "cannon", pivot = Vector(28.8800, 0.0000, 79.8629), sample = Vector(76.1926, 0.0000, 67.8859), groups = {"body", "dark", "lamp"}},
+        {name = "front_right_thigh", pivot = Vector(-7.8000, -19.6000, 97.9429), sample = Vector(6.8194, -19.5814, 82.7827), groups = {"leg", "lamp"}},
+        {name = "front_right_shin", pivot = Vector(25.2400, -19.6000, 59.5829), sample = Vector(45.8206, -19.5813, 75.8021), groups = {"leg"}},
+        {name = "front_right_foot", pivot = Vector(69.2400, -19.6000, 93.1029), sample = Vector(80.3882, -19.5812, 78.2661), groups = {"leg", "lamp"}},
+        {name = "front_right_piston_top", pivot = Vector(60.2000, -19.6000, 79.7029), sample = Vector(62.1294, -19.5813, 76.9239), groups = {"leg"}},
+        {name = "front_right_piston_bottom", pivot = Vector(76.7200, -19.6000, 56.2629), sample = Vector(74.7935, -19.5813, 59.0281), groups = {"leg"}},
+        {name = "rear_right_thigh", pivot = Vector(-36.8000, -19.6000, 97.9429), sample = Vector(-48.0689, -19.5814, 78.6222), groups = {"leg", "lamp"}},
+        {name = "rear_right_shin", pivot = Vector(-62.6800, -19.6000, 54.4229), sample = Vector(-81.8234, -19.5813, 62.0750), groups = {"leg"}},
+        {name = "rear_right_foot", pivot = Vector(-106.8000, -19.6000, 75.8629), sample = Vector(-125.6938, -19.5812, 50.3460), groups = {"leg"}},
+        {name = "front_left_thigh", pivot = Vector(-7.8000, 19.6000, 97.9429), sample = Vector(6.8194, 19.5814, 82.7827), groups = {"leg", "lamp"}},
+        {name = "front_left_shin", pivot = Vector(25.2400, 19.6000, 59.5829), sample = Vector(45.8206, 19.5813, 75.8021), groups = {"leg"}},
+        {name = "front_left_foot", pivot = Vector(69.2400, 19.6000, 93.1029), sample = Vector(80.3882, 19.5812, 78.2661), groups = {"leg", "lamp"}},
+        {name = "front_left_piston_top", pivot = Vector(60.2000, 19.6000, 79.7029), sample = Vector(62.1294, 19.5813, 76.9239), groups = {"leg"}},
+        {name = "front_left_piston_bottom", pivot = Vector(76.7200, 19.6000, 56.2629), sample = Vector(74.7935, 19.5813, 59.0281), groups = {"leg"}},
+        {name = "rear_left_thigh", pivot = Vector(-36.8000, 19.6000, 97.9429), sample = Vector(-48.0689, 19.5814, 78.6222), groups = {"leg", "lamp"}},
+        {name = "rear_left_shin", pivot = Vector(-62.6800, 19.6000, 54.4229), sample = Vector(-81.8234, 19.5813, 62.0750), groups = {"leg"}},
+        {name = "rear_left_foot", pivot = Vector(-106.8000, 19.6000, 75.8629), sample = Vector(-125.6938, 19.5812, 50.3460), groups = {"leg"}},
+    },
+    muzzle = Vector(168.7800, 0.0000, 66.0229),
+}

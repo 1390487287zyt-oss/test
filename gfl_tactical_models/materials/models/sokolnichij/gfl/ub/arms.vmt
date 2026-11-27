@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\Sokolnichij\gfl\ub\arms"
+	"$bumpmap" "models\Sokolnichij\gfl\ub\arms_n"
+
+	$phong 0
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongtint "[0.6 0.6 0.6]"
+	$phongexponent 8
+	$phongboost 2.4
+	$nocull 1
+
+	$alphatest 1
+	$allowalphatocoverage 1
+
+}

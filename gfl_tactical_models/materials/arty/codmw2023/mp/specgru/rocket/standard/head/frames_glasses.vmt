@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "Arty\Codmw2023\MP\SpecGru\Rocket\Standard\Head\Frames_Glasses_rgb"
+    "$bumpmap" "Arty\Codmw2023\MP\SpecGru\Rocket\Standard\Head\Frames_Glasses_n"
+
+    "$envmap" "Arty\Codmw2023\MP\KorTac\Swagger\Standard\envmaps\specularity_100"
+    "$envmaptint" "[0.098 0.098 0.098]"                 
+}

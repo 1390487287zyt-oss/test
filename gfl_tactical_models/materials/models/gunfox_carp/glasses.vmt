@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models/gunfox_carp/xmaterial_9681fbebcacbb47"
+    "$bumpmap" "models/gunfox_carp/xmaterial_9681fbebcacbb47_n"
+    "$phongexponenttexture" "models/gunfox_carp/xmaterial_9681fbebcacbb47_spec"
+
+
+    "$translucent" 1
+    "$phong" "1"
+    "$phongboost" ".05"
+    "$phongalbedotint" "1"
+    "$phongalbedoboost" "10"                                //toy around with this
+    "$phongfresnelranges" "[1 0.1 0]"
+
+    //rimlight doesn't properly show in hlmv, make sure you're changing these values in game
+    "$rimlight" "0"
+    "$rimlightexponent" "100"
+    "$rimmask" "1"
+    "$rimlightboost" "1"
+    "$nodecal" "1"
+
+}

@@ -1,0 +1,1 @@
+include("gfl_tactical_npcs/config.lua").Apply(ENT, "kcco_female_officer", "ally")

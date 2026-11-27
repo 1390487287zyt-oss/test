@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/atago\iop"
+	"$bumpmap" "models/atago\normal"
+$translucent 1
+}

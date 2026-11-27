@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/atago/Doctor_Mask"
+	//"$halflambert" 1
+}

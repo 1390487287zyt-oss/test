@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\tucket1\kcco/Face1"
+	"$lightwarptexture" "models\tucket1\kcco/facewarp"
+	"$halflambert" 1
+	"$nocull" 1
+	"$nodecal" 1
+
+
+}

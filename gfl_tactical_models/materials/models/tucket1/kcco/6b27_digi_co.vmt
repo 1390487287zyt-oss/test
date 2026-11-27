@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\tucket1\kcco/6b27_digi_co"
+	"$bumpmap" "models\tucket1\kcco/6b27_nohq"
+	"$phong" "1"
+	"$phongexponent" "1"
+//	"$phongalbedotint" "1"
+	"$phongboost" "0"
+	"$phongfresnelranges"	"[.3 .3 .3]"
+	$halflambert 1
+}
+

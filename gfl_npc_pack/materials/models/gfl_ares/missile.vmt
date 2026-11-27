@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+  "$basetexture" "models/gfl_ares/missile"
+  "$model" "1"
+  "$vertexcolor" "1"
+}

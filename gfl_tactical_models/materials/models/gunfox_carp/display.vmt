@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models\gunfox_carp\watch"
+	"$bumpmap" "dev/dev_normal"
+	"$lightwarptexture"	"models\gunfox_carp\lightwarp\basewarp"
+    /////////////////
+    "$color2" "[0.35 0.35 0.35]"                                     //do not touch this
+    "$blendtintbybasealpha" "1"                             //do not touch this
+    /////////////////
+
+    "$phong" "1"
+    "$phongboost" "1"
+    "$phongalbedotint" "1"
+    "$phongalbedoboost" "10"                                //toy around with this
+    "$phongfresnelranges" "[1 0.1 0]"
+
+    "$normalmapalphaenvmapmask" "1"                         //do not touch this
+    /////////////////
+	"$detail" "models\gunfox_carp\watch"
+	"$detailscale" "1"        //scales the detail texture to same size as diffuse.
+    "$detailblendfactor" "1"  //lower values make the texture less visible. 0.0 - 1.0
+    "$detailblendmode" "5"    //6 also works.
+}

@@ -1,0 +1,31 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\tucket1\kcco/rifleman_legs_diffuse"
+	"$bumpmap" "models\tucket1\kcco/rifleman_legs_normal"
+	//wank stain
+	//"$color2" [0.8 0.8 0.8]
+
+
+	$nocull 1		//renders the material on the backfaces, i prefer to not use it too much. Basically allows to avoid seeing through parts of the model that are on the inside
+
+	$normalmapalphaenvmapmask 1 // uses normal alpha mask for rendering reflections on material parts.
+	
+	"$envmap" "models\tucket1\kcco/killy"					
+	"$envmaptint" "[0.04 0.04 0.04]"				
+ 	"$envmapFresnel"  "[1.4] "
+
+
+	"$phong" "1"	//directional reflections					
+	"$phongboost"	"3" 		//defines how strong $phong reflection is
+	//"$phongexponent" "4"	// in case you don't want to use exponenttexture use that one, mind that it's not a good solution for everything, but if you like it, that's cool too.
+	"$phongexponenttexture" "models\tucket1\kcco/green"  		//this is useful, make use of it if you have a chance.
+	//"$phongwarptexture"		"models\tucket1\kcco/phongwarp"		//very useful, works with directional lights and map lighting, useful for everything.
+	//$lightwarptexture "models/auditor/tf2/imc_riflemen/Shared/lightwarp_elchulus"	//quite cool too, doesn't work under directional light, works on map lighting, useful for playermodels. Defines material shading tint.
+
+	"$phongfresnelranges"	"[0.76 0.921 1.25]"			//play with that one too, it's useful.
+	"$phongtint" 			"[1 1 1]"			//you can leave that one as is pretty much all of the time, defines phong reflection tint.
+	"$PhongAlbedoTint" "1"
+
+}
+
+

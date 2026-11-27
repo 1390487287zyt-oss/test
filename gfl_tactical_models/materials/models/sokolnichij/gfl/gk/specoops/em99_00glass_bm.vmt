@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\Sokolnichij\gfl\gk\specoops\em99_00glass_BM"
+	"$bumpmap" "models\Sokolnichij\gfl\gk\specoops\em99_00glass_NM"  
+	
+	$ssbump 1
+	"$halflambert" "1"
+	"$nodecal" "0"
+
+"$Envmap"             "env_cubemap"
+//"$envmapmask"		"models\Sokolnichij\gfl\gk\specoops\BH_silvr_fs_BM"
+$envmaptint			"[0.2 0.6 0.2]"
+
+"$phong" "1"
+"$phongexponent" "10" 
+"$phongboost" "3"
+"$phongfresnelranges"   "[0.1 0.9 1.]"
+"$phongtint" "[0 2.55 0]"
+"$phongexponentmask" "models\Sokolnichij\gfl\gk\specoops\em99_00glass_MM"
+
+}

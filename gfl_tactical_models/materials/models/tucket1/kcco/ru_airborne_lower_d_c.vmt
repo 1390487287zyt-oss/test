@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\tucket1\kcco/ru_airborne_lower_d_c"
+	"$bumpmap"    "models\tucket1\kcco/spetsnaz_pants_a0_nml"
+	"$phong" "1"
+	"$phongexponent" "5"
+//	"$phongalbedotint" "1"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[.3 .3 .3]"
+	$halflambert 1
+}
+
+

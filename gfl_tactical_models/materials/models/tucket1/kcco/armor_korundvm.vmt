@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\tucket1\kcco\armor_korundvm"
+	"$bumpmap" "models\tucket1\kcco\armor_korundvm_N"
+	//MaterialAdjustment
+	
+	"$phong" "1"						
+	"$phongboost"	"2" 		
+	"$phongexponenttexture" "models\tucket1\kcco\armor_korundvm_g"  ///UV88, 0.8
+	"$phongfresnelranges"	"[0.05 0.35 1.25]"	
+
+}

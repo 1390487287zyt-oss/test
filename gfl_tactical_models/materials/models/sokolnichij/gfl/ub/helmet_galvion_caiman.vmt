@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	$basetexture "models\Sokolnichij\gfl\ub/helmet_galvion_caiman_d"
+	"$bumpmap" "models\Sokolnichij\gfl\ub/helmet_galvion_caiman_n"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models\Sokolnichij\gfl\ub/helmet_galvion_caiman_g"
+//    "$phongalbedotint" "1"
+    "$phongboost" "1"
+    "$phongfresnelranges"    "[.3 .3 .3]"
+}

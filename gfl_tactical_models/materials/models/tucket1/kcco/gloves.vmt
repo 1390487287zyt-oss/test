@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\tucket1\kcco/gloves"
+	"$bumpmap" "models\tucket1\kcco/gloves_nml"
+$phong "1"
+$phongexponent "1"
+$phongboost "0"
+$phongfresnelranges  "[1 1 30]"
+$phongalbedotint "1"
+}

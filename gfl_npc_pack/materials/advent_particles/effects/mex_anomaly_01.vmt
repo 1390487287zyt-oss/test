@@ -1,0 +1,5 @@
+"SpriteCard"
+{
+	$basetexture "advent_particles/effects/mex_anomaly_01"
+	$additive 1
+}

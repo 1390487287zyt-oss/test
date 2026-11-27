@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/atago/eyewhite"
+	
+    "$lightwarptexture" "models/atago/lightwarptexture"
+		
+    "$bumpmap" "models/atago/normal"
+	"$model" "1"
+	"$nodecal" "1"
+	"$nocull" "1"
+	"$halflambert" "1"
+	
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models/atago/phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+}

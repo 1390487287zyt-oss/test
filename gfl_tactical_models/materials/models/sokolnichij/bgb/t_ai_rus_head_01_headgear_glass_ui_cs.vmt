@@ -1,0 +1,25 @@
+"UnLitGeneric"
+{
+	"$baseTexture" "models\sokolnichij\bgb/t_ai_rus_head_01_headgear_glass_ui_cs"
+	// $additive 1
+	$nocull 1
+	$translucent 1
+	$model 1
+
+	$detail "models\sokolnichij\bgb/scanlines"
+	$detailscale 1
+	$detailblendfactor 1
+	$detailblendmode 1
+
+	Proxies
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" 5
+			"texturescrollangle" 0
+		}
+	}
+}
+
+

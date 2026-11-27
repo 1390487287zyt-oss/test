@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	$basetexture "models\sokolnichij\bgb\suit_d"
+	$bumpmap "models\sokolnichij\bgb\suit_ns"
+	$nocull 1
+	
+	$phong 1
+	$phongexponent 10
+	$phongboost 8.5
+	$phongfresnelranges "[.05 .5 1]"
+}

@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "advent_particles\effects/fas_heavy_smoke_spike"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$translucent" 1
+}

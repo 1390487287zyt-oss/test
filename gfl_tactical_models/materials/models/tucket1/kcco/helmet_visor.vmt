@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	$basetexture "models\tucket1\kcco/helmet_d"
+	$bumpmap "models\tucket1\kcco/helmet_n"
+	//$translucent 1
+	"$phong" "1"
+	"$phongexponent" "4"
+//	"$phongalbedotint" "1"
+	"$phongboost" "4"
+	"$phongfresnelranges"	"[.3 .3 .3]"
+	$halflambert 1
+}

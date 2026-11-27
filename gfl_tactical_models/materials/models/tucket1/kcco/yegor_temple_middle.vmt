@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models/tucket1/kcco/yegor_temple_middle"
+    "$nodecal" "1"
+    "$lightwarptexture" "models/tucket1/kcco/base"
+}

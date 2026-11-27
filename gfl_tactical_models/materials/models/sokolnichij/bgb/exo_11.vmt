@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\sokolnichij\bgb\exo_11"
+	
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+
+	"$phong" "1" 
+	"$phongexponent" "2"
+	"$phongboost" "0.7"
+	"$phongfresnelranges"		"[0 0.5 1]"
+               
+}
+

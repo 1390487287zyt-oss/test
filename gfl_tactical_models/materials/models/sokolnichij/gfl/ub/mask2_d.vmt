@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\Sokolnichij\gfl\ub\Mask2_D"
+	"$bumpmap" "models\Sokolnichij\gfl\ub\Mask2_N"
+$nocull 1
+$model 1	
+"$blendTintByBaseAlpha"	"1"
+"$PhongDisableHalfLambert" "1"
+
+
+	//TRANSPARENCY AND AO:
+
+
+	$lightwarptexture "models\Sokolnichij\gfl\ub/lightwarp_soft"
+
+
+	"$rimlight" "1"
+	"$rimlightboost" "0.35"
+
+	//IMPORTANT:
+
+	"$phong" "1"						
+	"$phongboost"	"0.55" 		
+	"$phongexponenttexture" "models\Sokolnichij\gfl\ub/phongwarp_sheen" 
+ 
+
+}

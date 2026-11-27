@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	$basetexture "models/atago/clothing1_d"
+	$bumpmap "models/atago/clothing1_n"
+
+	$alphatest 1
+	$nocull 1
+
+	"$detail"             "models/atago/clothdetail"
+	"$detailscale"        "7"
+	"$detailblendfactor"  "0.4"
+	"$detailblendmode"    "0"
+	
+
+	
+	"$rimlight" "1"
+	"$rimlightboost" "0.2"
+	"$rimlightexponent" "4"
+}

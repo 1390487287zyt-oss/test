@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+    "$basetexture" "models/gfl_hydra_snpc/hydra_02_emission"
+    "$model" "1"
+    "$vertexcolor" "1"
+    "$additive" "1"
+}

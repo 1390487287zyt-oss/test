@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "Arty\Codmw2023\MP\SpecGru\Rocket\Standard\Belt"
+    "$bumpmap" "Arty\Codmw2023\MP\SpecGru\Rocket\Standard\Belt_n"
+ }

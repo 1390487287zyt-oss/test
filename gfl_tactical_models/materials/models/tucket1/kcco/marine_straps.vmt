@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\tucket1\kcco\marine_straps"
+	"$bumpmap" "models\tucket1\kcco\bump_flat"
+	//MaterialAdjustment
+
+
+	$lightwarptexture "models\tucket1\kcco/lightwarp_soft"
+	//"$phongwarptexture"		""
+	//"$phongexponent" "///NUMBER_VALUE///"	
+
+
+	//IMPORTANT:
+
+	"$phong" "1"						
+	"$phongboost"	"1" 		
+	"$phongfresnelranges"	"[0.05 0.35 1.25]"					
+	//"$PhongAlbedoTint" "1"
+
+}

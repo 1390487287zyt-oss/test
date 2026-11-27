@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	$basetexture "models\sokolnichij\bgb\glove_d"
+	$bumpmap "models\sokolnichij\bgb\glove_n"
+	
+	$phong 1
+	$phongexponent 10
+	$phongboost 1.25
+	$phongfresnelranges "[.05 .5 1]"
+}

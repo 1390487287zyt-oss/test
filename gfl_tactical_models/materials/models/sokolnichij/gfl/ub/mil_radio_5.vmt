@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Sokolnichij\gfl\ub\mil_radio_5"
+	
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+
+	"$phong" "1" 
+	"$phongexponent" "2"
+	"$phongboost" "0.7"
+	"$phongfresnelranges"		"[0 0.5 1]"		                        
+}
+

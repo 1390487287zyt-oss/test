@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/gunfox_carp/blaze_mtFace"
+	    "$bumpmap" "dev/dev_normal"
+	"$lightwarptexture"	"models\gunfox_carp\lightwarp\facewarp"
+
+              $EmissiveBlendEnabled 		1		
+
+              $EmissiveBlendStrength 		5		//调节亮度
+
+              $EmissiveBlendTexture 		"vgui/white"			
+
+              $EmissiveBlendBaseTexture 	"models/gunfox_carp/blaze_mtEyes"	
+
+              $EmissiveBlendFlowTexture 	"vgui/white"	 	
+
+              $EmissiveBlendScrollVector 	" [ 0 0 ] " 
+}

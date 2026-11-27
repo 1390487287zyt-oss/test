@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\tucket1\kcco/YJ"
+	$bumpmap "models\tucket1\kcco/bump_flat"
+	//"$translucent" "1"
+	//"$model" "1"
+	//"$nodecal" "1"
+	"$nocull" "1"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+	//"$halflambert" "1"
+	
+	"$lightwarptexture" "models\tucket1\kcco/toon5"
+	
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+}

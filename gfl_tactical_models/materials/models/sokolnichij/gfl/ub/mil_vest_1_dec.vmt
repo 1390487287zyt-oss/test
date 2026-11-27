@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Sokolnichij\gfl\ub\mil_vest_1_dec"
+	
+    "$color2" "[0.85 0.85 0.85]"
+
+	"$translucent" "1"
+
+	"$phong" "1"						
+	"$phongboost"	"25"
+	"$phongfresnelranges"	"[0.015 0.1 0.5]"	
+	"$PhongDisableHalfLambert" "1"		
+               
+}
+

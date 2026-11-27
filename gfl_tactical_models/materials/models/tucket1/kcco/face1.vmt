@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\tucket1\kcco/Face1"
+	"$lightwarptexture" "models\tucket1\kcco/facewarp"
+	"$halflambert" 1
+	"$nocull" 1
+	"$nodecal" 1
+
+
+	"$phong" "1"		// 开启冯氏光照模型
+	"$phongfresnelranges" "[.5 .5 .5]" 	// 冯氏反射的角度
+	"$phongboost" "0.3"	// 光照强度
+	// "phongtint" "[1 0 0]"	// 光照颜色
+	"$phongalbedotint" "1"	// 启用basetexture的alpha通道作为phong的反射颜色
+	"$phongalbedoboost" "1"	// 反射强度
+	"$phongexponent" "1"	// 反射密度，越大光线越集中
+
+
+}

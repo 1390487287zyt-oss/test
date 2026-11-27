@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/gunfox_carp/milltina_handnolatex"
+		    "$bumpmap" "dev/dev_normal"
+	"$lightwarptexture"	"models\gunfox_carp\lightwarp\skinwarp"
+}

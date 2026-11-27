@@ -1,0 +1,44 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\tucket1\kcco\ultra_nationalist_loadout_a0_col"
+	"$bumpmap" "models\tucket1\kcco\ultra_nationalist_loadout_a0_nml"
+	//MaterialAdjustment
+	
+"$color2" "[0.9 0.9 0.9]"
+"$PhongDisableHalfLambert" "1"
+
+	//"$phongtint" "[///RGB_VALUE///]"	
+
+	//TRANSPARENCY AND AO:
+
+	//"$additive" "1"
+	//"$translucent" "[///VALUE///]"
+	//"$alphatest" "[///VALUE///]"
+	//"$alphatestreference" "[///VALUE///]"
+
+	//"$ambientocclusion" "0"
+
+	//"$nocull" "////VALUE///"	
+
+	//"$normalmapalphaenvmapmask" "1" 	
+	//"$envmap" "env_cubemap"					
+	//"$envmaptint" "[0.04 0.04 0.04]"				
+ 	//"$envmapFresnel"  "[1.0] "
+
+	$lightwarptexture "models\tucket1\kcco/lightwarp_soft"
+	//"$phongwarptexture"		""
+	//"$phongexponent" "///NUMBER_VALUE///"	
+
+	"$rimlight" "1"
+	"$rimlightboost" "0.35"
+	//"$rimmask" "1"
+
+	//IMPORTANT:
+
+	"$phong" "1"						
+	"$phongboost"	"2" 		
+	"$phongexponenttexture" "models\tucket1\kcco\ultra_nationalist_loadout_a0_MSK"  ///UV88, 0.8
+	"$phongfresnelranges"	"[0.05 0.35 1.25]"					
+	//"$PhongAlbedoTint" "1"
+
+}

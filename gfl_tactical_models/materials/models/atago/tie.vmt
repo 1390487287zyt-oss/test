@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/atago/tie"
+	"$bumpmap" "models/atago/normal"
+	"$nodecal" "1"
+
+
+	//$color2 "[.8 .8 .8]"
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongexponent" "150"
+	"$phongalbedotint" "1"
+
+	"$phongfresnelranges"	"[.2 .5 1]"
+ 	"$phongexponenttexture" "models/atago/phong_exp"
+	$nocull 1
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}
+
+
+

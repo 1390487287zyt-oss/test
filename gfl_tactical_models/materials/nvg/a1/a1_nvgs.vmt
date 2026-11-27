@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+    $basetexture "nvg/o1/e11_nvgs_red"
+
+    $bumpmap "nvg/o1/e11_nvgs_nrm"
+    $basemapalphaphongmask "0"
+    $phong 1
+    $phongfresnelranges "[0 0.5 1]"
+
+    $envmapmask "nvg/o1/e11_nvgs_gloss"
+    $envmap "env_cubemap"
+    $envmaptint "[0.05 0.05 0.05]"
+	
+	"$emissiveblendenabled" 	  "1"	// Enable EmissiveBlend. Like $selfillum 1	
+    "$emissiveblendstrength" 	"1"	// how strong the entire glow effect is.
+    "$emissiveblendtexture" 	"nvg/null"	// This is the glowing texture's mask, like $selfillummask.  SHOULD BE VTF i8 FORMAT, NOT DXT5!!!
+    "$emissiveblendbasetexture" "nvg/o1/e11_nvgs_glow"	// this is the glowing texture.vtf
+    "$emissiveblendflowtexture" "nvg/null"	 // EmmisiveBlend can "flow" or move. But ours is static, so a white texture is used.
+    "$emissiveblendtint" " [ 1 0 0 ] "	// RGB glow intensity. Leave at 1 1 1. This can be used to change how strong each color should glow.
+}

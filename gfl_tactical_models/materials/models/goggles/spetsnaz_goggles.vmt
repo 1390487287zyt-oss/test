@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "Arty\Codmw2023\MP\SpecGru\Rocket\Standard\Head\Frames_rgb"
+    "$bumpmap" "Arty\Codmw2023\MP\SpecGru\Rocket\Standard\Head\Frames_n"
+ }

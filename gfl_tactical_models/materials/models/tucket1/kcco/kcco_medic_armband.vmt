@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models/tucket1/kcco/kcco_medic_armband"
+    "$alphatest" "1"
+    "$alphatestreference" "0.45"
+    "$nodecal" "1"
+}

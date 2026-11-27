@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	$basetexture "models\Sokolnichij\gfl\gk\execution_squad_machinist_d"
+	$bumpmap "models\Sokolnichij\gfl\gk\execution_squad_machinist_n"
+
+	$nocull 1
+
+	$phong 1
+	$phongexponenttexture "models\Sokolnichij\gfl\gk\execution_squad_machinist_e"
+	$phongfresnelranges "[1 2 3]"
+	$halflambert 1
+	$phongalbedotint 1
+	$phongboost 2
+	
+	$selfillum 1
+	$selfillummask "models\Sokolnichij\gfl\gk\execution_squad_machinist_glow"
+}

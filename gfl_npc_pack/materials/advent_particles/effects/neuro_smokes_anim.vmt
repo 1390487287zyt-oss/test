@@ -1,0 +1,11 @@
+"SpriteCard"
+{
+	$BASETEXTURE "advent_particles/effects/neuro_smokes_anim"
+
+	$POWERFUNCTION "[0.8 2.5 5]"
+	
+	$ADDSELF 1.0
+	$DEPTHBLEND 1
+	$BLENDFRAMES 1
+}
+

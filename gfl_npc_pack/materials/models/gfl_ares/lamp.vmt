@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+  "$basetexture" "color/white"
+  "$model" "1"
+  "$vertexcolor" "1"
+  "$color" "[0.09 0.42 1]"
+}
